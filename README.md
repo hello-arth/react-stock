@@ -9,7 +9,9 @@ Aplicação web construída com React + Vite para gerenciamento de estoque. Poss
 - React Router
 - Context API
 - ESLint (Flat config)
-- CSS Modules
+- Bootstrap
+- CSS global (para estilos gerais)
+- CSS Modules (para estilos modularizados em componentes)
 
 ## 📁 Estrutura do Projeto
 
