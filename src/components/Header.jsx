@@ -7,7 +7,7 @@ export default function Header() {
     <header>
       <div className="navbar navbar-expand-md">
         <div className="container">
-          <Link to="/" className="navbar-brand fw-semibold">react-stock</Link>
+          <Link to="/" className="navbar-brand fw-semibold">REACT-STOCK</Link>
 
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse"  data-bs-target="#navbarMain" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
