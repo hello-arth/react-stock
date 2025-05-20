@@ -1,0 +1,17 @@
+select, textarea, input, thead > tr {
+  background-color: #1C1A1D;
+}
+
+thead th {
+  padding: .75rem;
+}
+
+tbody td {
+  padding: .75rem 1rem;
+}
+
+textarea, input, select {
+  border: none;
+  padding: .75rem;
+  border-radius: .25rem
+}
