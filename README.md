@@ -2,7 +2,7 @@
 
 Aplicação web construída com React + Vite para gerenciamento de estoque. Possui rotas dinâmicas, formulários, componentes reutilizáveis, controle de estado via Context API e estrutura modularizada.
 
-## 🧰 Tecnologias utilizadas
+## 🧰 Stack utilizada
 
 - React
 - Vite
