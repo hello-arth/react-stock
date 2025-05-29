@@ -7,7 +7,7 @@ thead th {
 }
 
 tbody td {
-  padding: .75rem 1rem;
+  padding: .75rem .8rem;
 }
 
 textarea, input, select {
