@@ -61,6 +61,12 @@ Aplicação web construída com React + Vite para gerenciamento de estoque. Poss
 - `npm run build`: gera build de produção
 - `npm run lint`: executa ESLint com a configuração Flat
 
+## 📸 Capturas de Tela
+
+
+![React Kanban](https://github.com/user-attachments/assets/33975664-56ef-4512-a0f2-a10552c4b013)
+
+
 ## 📄 Licença
 
 MIT © [hello-arth](https://github.com/hello-arth)
